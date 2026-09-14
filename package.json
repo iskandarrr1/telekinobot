@@ -1,0 +1,15 @@
+{
+  "name": "telekinobot",
+  "version": "1.0.0",
+  "description": "Telegram kino bot — UZ / RU / EN tillarida kino izlash, ko'rish va yuklab olish",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "keywords": ["telegram", "bot", "movie", "kinobot"],
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
